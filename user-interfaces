@@ -1,0 +1,21 @@
+{ "data": [
+  {
+    "id": 1,
+    "type": "user-interfaces",
+    "attributes": {
+      "label": "Namenode",
+      "base-url": "http://namenode.bdegw.iit.demokritos.gr/",
+      "append-path": ""
+    }
+  },
+  {
+    "id": 2,
+    "type": "user-interfaces",
+    "attributes": {
+      "label": "Datanode",
+      "base-url": "http://datanode.bdegw.iit.demokritos.gr/",
+      "append-path": ""
+    }
+  }
+]
+}
